@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TaxiFriend</string>
+    <string name="aboutText">Everfest\'s Take Every summer, Drake--the world-renowned rapper with an inarguably cultish following--puts on his very own music festival for his adoring fans. Named after the star\'s record label, OVO Sound, OVO Fest (aka October\'s Very Own) is one the most highly anticipated fests in the genre. Given Drake\'s audible love and loyalty to his stomping grounds, it comes as no surprise that the festival takes place in Toronto each summer. Over the years, the annual throw down has raked in all sorts of surprises: past performers include Eminem, Jay Z, Kanye West, Lauryn Hill, Stevie Wonder, Rihanna and other big names.</string>
+    <string name="line_up">Line Up</string>
+    <string name="location">Location</string>
+    <string name="ticket">Ticket</string>
+    <string name="event_info">Event Info</string>
+</resources>
